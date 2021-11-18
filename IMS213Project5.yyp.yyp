@@ -1,5 +1,7 @@
 {
   "resources": [
+    {"id":{"name":"obj_frog","path":"objects/obj_frog/obj_frog.yy",},"order":0,},
+    {"id":{"name":"spr_frog","path":"sprites/spr_frog/spr_frog.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -44,7 +46,7 @@
     "IDEVersion": "2.3.5.589",
   },
   "resourceVersion": "1.4",
-  "name": "project5B",
+  "name": "IMS213Project5.yyp",
   "tags": [],
   "resourceType": "GMProject",
 }
