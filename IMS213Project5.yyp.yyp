@@ -1,5 +1,9 @@
 {
   "resources": [
+    {"id":{"name":"obj_bigLog","path":"objects/obj_bigLog/obj_bigLog.yy",},"order":2,},
+    {"id":{"name":"obj_smallLog","path":"objects/obj_smallLog/obj_smallLog.yy",},"order":1,},
+    {"id":{"name":"spr_bigLog","path":"sprites/spr_bigLog/spr_bigLog.yy",},"order":2,},
+    {"id":{"name":"spr_smallLog","path":"sprites/spr_smallLog/spr_smallLog.yy",},"order":1,},
     {"id":{"name":"obj_frog","path":"objects/obj_frog/obj_frog.yy",},"order":0,},
     {"id":{"name":"spr_frog","path":"sprites/spr_frog/spr_frog.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
