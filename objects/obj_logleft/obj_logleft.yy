@@ -7,7 +7,10 @@
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_logbaseclass",
+    "path": "objects/obj_logbaseclass/obj_logbaseclass.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -31,7 +34,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_smallLog",
+  "name": "obj_logleft",
   "tags": [],
   "resourceType": "GMObject",
 }

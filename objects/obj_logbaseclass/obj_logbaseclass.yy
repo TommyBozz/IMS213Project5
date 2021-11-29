@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "spr_bigLog",
-    "path": "sprites/spr_bigLog/spr_bigLog.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -28,7 +25,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_bigLog",
+  "name": "obj_logbaseclass",
   "tags": [],
   "resourceType": "GMObject",
 }
